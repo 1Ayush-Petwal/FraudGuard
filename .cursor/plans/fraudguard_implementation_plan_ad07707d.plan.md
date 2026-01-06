@@ -4,7 +4,7 @@ overview: Build a complete FraudGuard system with a Chrome extension (Manifest v
 todos:
   - id: backend-setup
     content: Create FastAPI backend structure with main.py, fraud_detector.py, models.py, config.py, and requirements.txt
-    status: pending
+    status: completed
   - id: fraud-detection-logic
     content: Implement fraud detection engine with URL similarity, domain age checking, HTTPS validation, and keyword pattern detection
     status: pending
